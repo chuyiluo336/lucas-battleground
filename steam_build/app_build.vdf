@@ -1,0 +1,21 @@
+"AppBuild"
+{
+	"AppID" "0" // 替换为你的Steam App ID
+	"BuildOutput" "../output/"
+	"ContentRoot" "./"
+	"Preview" "0"
+	"Local" "0"
+	"SetLive" "0"
+	"Depots"
+	{
+		"0"
+		{
+			"FileMapping"
+			{
+				"LocalPath" "Lucas Battleground.app"
+				"DepotPath" "Lucas Battleground.app"
+				"recursive" "1"
+			}
+		}
+	}
+}
