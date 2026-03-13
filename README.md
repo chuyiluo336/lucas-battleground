@@ -127,7 +127,7 @@ MIT License
 ## 联系方式
 
 - GitHub: [chuyiluo336](https://github.com/chuyiluo336)
-- 邮箱: chuyiluo336@example.com
+- 邮箱: xujiashun72@gmail.com
 
 ---
 
