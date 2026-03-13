@@ -119,6 +119,7 @@ Lucas Battelground/
 ## 开发团队
 
 - **chuyiluo336** - 主要开发者
+- **Trae AI Assistant** - 技术支持与代码实现
 
 ## 许可证
 
